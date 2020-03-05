@@ -1,0 +1,56 @@
+{
+  "uid" : "798827a92594df43",
+  "name" : "test_long3",
+  "fullName" : "scripts.test_concc.TestLong#test_long3",
+  "historyId" : "ea04677b9ddaeb7c855d807517ec7a58",
+  "time" : {
+    "start" : 1583390745404,
+    "stop" : 1583390745404,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_concc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLong"
+  }, {
+    "name" : "host",
+    "value" : "PC-20190224SYWH"
+  }, {
+    "name" : "thread",
+    "value" : "29588-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_concc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "798827a92594df43.json",
+  "parameterValues" : [ ]
+}
